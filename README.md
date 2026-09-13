@@ -12,3 +12,12 @@ Have CMake.
 Open build folder in a terminal.  
 Compile with CMake.  
 Run the executable.
+
+Example:  (MSYS2 UCRT64)
+me@my-desktop UCRT64 /c/pathwhateveritis...../build  
+ninja  
+
+me@my-desktop UCRT64 /c/pathwhateveritis...../build  
+./main
+
+should run!
