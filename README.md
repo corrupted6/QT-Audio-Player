@@ -17,10 +17,10 @@ Compile with CMake.
 Run the executable.
 
 Example:  (MSYS2 UCRT64)  
-me@my-desktop UCRT64 /c/pathwhateveritis...../build  
+me@my-desktop UCRT64 /c/pathwhateveritis...../audioplayer  
 ninja  
 
-me@my-desktop UCRT64 /c/pathwhateveritis...../build  
+me@my-desktop UCRT64 /c/pathwhateveritis...../audioplayer  
 ./main
 
 should run!
