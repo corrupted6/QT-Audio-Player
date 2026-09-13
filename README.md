@@ -13,7 +13,7 @@ Open build folder in a terminal.
 Compile with CMake.  
 Run the executable.
 
-Example:  (MSYS2 UCRT64)
+Example:  (MSYS2 UCRT64)  
 me@my-desktop UCRT64 /c/pathwhateveritis...../build  
 ninja  
 
